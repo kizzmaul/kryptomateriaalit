@@ -31,7 +31,7 @@ Yhteiset kysymykset
 - Onko kehitystyö avointa siten, että kuka tahansa voi osallistua siihen esimerkiksi githubin kautta?
 - Jos kehittäjät ja kaikki heidän omistamat tietokoneet/palvelimet katoaisivat nyt, niin täyttäisikö krypto edelleen arvolupauksensa? 
     - Esimerkiksi Uniswap täyttää, sillä heidän älysopimus on käytettävissä Ethereumin lohkoketjusta käsin vaikka nettisivu olisi poissa. Likviditeettialtaat olisivat edelleen olemassa ja käytettävissä.
-- Onko kryptolla mitään keskitettyä kipupistettä, joka olisi hajautetun eetoksen vastainen? Kts. seuraavat esimerkit
+- Onko kryptolla mitään keskitettyä kipupistettä, joka olisi hajautuksen eetoksen vastainen? Kts. seuraavat esimerkit
     - Iota: keskitetysti hallittu koordinaattorisolmu, jota ilman se ei toimi
     - BSC: ainoastaan Binancen valitsemat entiteetit voi ylläpitää validaattoreita.
     - Storj: keskitetyt relay solmut. 
