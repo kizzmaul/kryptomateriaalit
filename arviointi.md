@@ -16,7 +16,7 @@
     - parametrin tuunaaminen ei ole uniikki ominaisuus. esim. kilpailijalla jokaisesta siirrosta menee kehittäjille 3% versus tässä vain 0.5%
     - "Voi käyttää meidän palvelun ostamiseen" on relevanttia vain silloin kun kyseistä palvelua ei voi ostaa muulla tavalla kuin kyseisellä kryptolla. Muutenhan juuri tämä krypto ja sen maksuvälineominaisuus ei olisi uniikkia.
 - Millainen kohderyhmä kryptolla on?
-- Ketkä tätä kryptoa kehittää (jos tiedossa)?
+- Ketkä tätä kryptoa kehittää (jos tiedossa)? Miten kehittäjät ovat sitoutuneet / sitoutettu projektiin?
 - Miten kehitystä on rahoitettu, jos ollenkaan, ja onko rahoitus 100% turvattu pidemmäksi aikaa?
 - Onko ulkopuolisten mahdollista jatkaa kehitystä, jos alkuperäiset kehittäjät eivät ole enää kiinnostuneita?
 - Millaisia riskejä tämä krypto sisältää? Millaisia kilpailijoita tällä kryptolla on?
@@ -28,7 +28,10 @@
 ## Tekninen osuus
 Yhteiset kysymykset
 - Mistä voi nähdä lähdekoodin?
+- Millaisia lähdekoodin tarkastus- ja testausprosesseja on käytössä? 
+- Kuinka paljon projektilla on kehittäjiä? 
 - Onko kehitystyö avointa siten, että kuka tahansa voi osallistua siihen esimerkiksi githubin kautta?
+- Onko projektissa olemassa teknisiä osa-alueita, joista on perillä vain osa kehittäjistä?
 - Jos kehittäjät ja kaikki heidän omistamat tietokoneet/palvelimet katoaisivat nyt, niin täyttäisikö krypto edelleen arvolupauksensa? 
     - Esimerkiksi Uniswap täyttää, sillä heidän älysopimus on käytettävissä Ethereumin lohkoketjusta käsin vaikka nettisivu olisi poissa. Likviditeettialtaat olisivat edelleen olemassa ja käytettävissä.
 - Onko kryptolla mitään keskitettyä kipupistettä, joka olisi hajautuksen eetoksen vastainen? Kts. seuraavat esimerkit
@@ -36,6 +39,7 @@ Yhteiset kysymykset
     - BSC: ainoastaan Binancen valitsemat entiteetit voi ylläpitää validaattoreita.
     - Storj: keskitetyt relay solmut. 
 - Onko jonkun muun kuin yksityisen avaimen omistajan mahdollista rajoittaa krypton lähetystä/vastaanottamista?
+- Miten kehitystyö on organisoitu? 
 
 Näistä valitaan vain toinen.
 - Kyseessä on poletti (esim. ERC20)
@@ -55,8 +59,9 @@ Näistä valitaan vain toinen.
     - Tukeeko älysopimuksia? Jos tukee, niin onko ne Turing-täydellisiä?
     - Jos DAG-pohjainen, niin onko verkon toiminta riippumaton jostain keskitetysti jaetusta solmulistasta? 
         - Esimerkiksi Ripple antaa solmulistan validaattoreille. Suunnatut verkot tuppaavat menemään epätasaiseksi ja suorituskyky heikentyy, jos yhdistää epäoptimaalisiin solmuihin.
-    - Onko verkon ylläpitämiseen osallistuminen jollain tavalla teknisesti rajoitettua?
+    - Onko verkon ylläpitämiseen osallistuminen jollain tavalla teknisesti rajoitettua? Millaiset laitteistoresurssit tarvitaan verkon solmun ylläpitämiseksi?
         - Esimerkiksi Bitcoinissa on 1 megatavun lohkot, jolloin heikompikin rauta voi osallistua solmun ylläpitoon ja näin lisätä hajautuneisuutta. Tämä on tärkeä ominaisuus kryptovaluutassa.
+    - Mikä on lohkoketjutietokannan koko ja kasvunopeus?
 
 
 ## Tulevaisuuden suunnitelma
